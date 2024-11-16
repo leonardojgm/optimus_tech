@@ -1,5 +1,5 @@
 # OptimusTech
-Uma landing page de contratação desenvolvido no 7DaysOfCode da Alura
+Uma landing page de contratação desenvolvido no 7DaysOfCode da Alura (HTML e CSS com Giovanna Moeller)
 
 ![image](https://github.com/user-attachments/assets/f5d961f6-1cf4-4a81-8b38-d9a1737a36d5)
 
