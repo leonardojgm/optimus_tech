@@ -1,0 +1,45 @@
+.vagas {
+    width: 70%;
+}
+
+.vagas__lista {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.vagas__titulo {
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: var(--azul-escuro);
+}
+
+.vagas__sublista {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.vaga {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+    border: 1px solid var(--cinza-claro-2);
+    border-radius: 0.5rem;
+}
+
+.titulo-vaga {
+    font-weight: 500;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    color: var(--azul-escuro);
+}
+
+.tempo, .faixa {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: var(--cinza-claro);
+}
